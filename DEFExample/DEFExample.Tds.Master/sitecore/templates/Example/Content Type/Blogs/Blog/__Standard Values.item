@@ -1,0 +1,17 @@
+----item----
+version: 1
+id: {B9C2F0FA-FC03-4899-A3CF-7DEE3C35F7FD}
+database: master
+path: /sitecore/templates/Example/Content Type/Blogs/Blog/__Standard Values
+parent: {23EAF5EB-A1DE-4582-867E-ADBE7821AC73}
+name: __Standard Values
+master: {00000000-0000-0000-0000-000000000000}
+template: {23EAF5EB-A1DE-4582-867E-ADBE7821AC73}
+templatekey: Blog
+created: 20171204T214301Z
+
+----version----
+language: en
+version: 1
+revision: 09545806-d622-475f-b9fa-1759d99ee6e4
+

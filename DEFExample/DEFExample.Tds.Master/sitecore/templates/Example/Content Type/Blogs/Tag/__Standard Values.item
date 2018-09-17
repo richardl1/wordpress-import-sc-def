@@ -1,0 +1,17 @@
+----item----
+version: 1
+id: {FA509571-10B5-40BA-9465-90189414E323}
+database: master
+path: /sitecore/templates/Example/Content Type/Blogs/Tag/__Standard Values
+parent: {C21EB487-D2D1-4752-B1F4-76A8E111E00B}
+name: __Standard Values
+master: {00000000-0000-0000-0000-000000000000}
+template: {C21EB487-D2D1-4752-B1F4-76A8E111E00B}
+templatekey: Tag
+created: 20171204T214055Z
+
+----version----
+language: en
+version: 1
+revision: 140f0fd7-bf1e-4407-97e4-a64ff1d624ef
+

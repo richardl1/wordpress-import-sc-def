@@ -1,0 +1,17 @@
+----item----
+version: 1
+id: {86AB57B8-D2AD-496F-BA11-11BEF3848283}
+database: master
+path: /sitecore/templates/Example/Content Type/Blogs/Category/__Standard Values
+parent: {4D1774A8-F057-4087-8C05-D258E72F567D}
+name: __Standard Values
+master: {00000000-0000-0000-0000-000000000000}
+template: {4D1774A8-F057-4087-8C05-D258E72F567D}
+templatekey: Category
+created: 20171204T214209Z
+
+----version----
+language: en
+version: 1
+revision: 0ea0640d-3f50-48fa-b421-29af842690b8
+
